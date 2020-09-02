@@ -1,0 +1,92 @@
+{
+  "code": 200,
+  "error": "",
+  "message": "",
+  "status": "SUCCESS",
+  "data": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/accessories.png",
+      "brands_name": "Allen Sollys,Louis Philippe,Van Heusen,Benetton,Jack & Jones,Veromoda,Celio,FBB,Central,Brand Factory,Lifestyle,Levis,NEW BALANCE,Pantaloons,Puma,Shoppers Stop,Myntra,Westside,Woodland,Bata,Hush Puppies,Hidesign,ALDO,CHARLES & KEITH,CALL IT SPRING,Relaxo,Titan,Fastrack,Helios,Titan Eye Plus,Voylla,William Penn",
+      "brands_slug": "allen-solly-gift-vouchers,louis-philippe-gift-vouchers,van-heusen-gift-vouchers,benetton-gift-vouchers,jack-&-jones-gift-vouchers,veromoda-gift-vouchers,celio-gift-vouchers,fbb-gift-vouchers,central-gift-vouchers,brand-factory-gift-vouchers,lifestyle-gift-vouchers,levis-gift-vouchers,new-balance-gift-vouchers,pantaloons-gift-vouchers,puma-gift-vouchers,shoppers-stop-gift-vouchers,myntra-gift-vouchers,westside-gift-vouchers,woodland-gift-vouchers,bata-gift-vouchers,hush-puppies-gift-vouchers,hidesign-gift-vouchers,aldo-gift-vouchers,charles-&-keith-gift-vouchers,call-it-spring-gift-vouchers,relaxo-gift-vouchers,titan-gift-vouchers,fastrack-gift-vouchers,helios-gift-vouchers,titan-eye-plus-gift-vouchers,voylla-gift-vouchers,william-penn-gift-vouchers"
+    },
+    {
+      "name": "Beauty",
+      "slug": "beauty",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/beauty.png",
+      "brands_name": "Kama Ayurveda,INGLOT,Bobbi Brown,Mac",
+      "brands_slug": "kama-ayurveda-gift-vouchers,inglot-gift-vouchers,bobbi-brown-gift-vouchers,mac-gift-vouchers"
+    },
+    {
+      "name": "Electronics",
+      "slug": "electronics",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/electronics.png",
+      "brands_name": "Amazon,Flipkart,Croma,Mobile Recharge",
+      "brands_slug": "amazon-gift-vouchers,flipkart-gift-vouchers,croma-gift-vouchers,mobile-recharge-gift-vouchers"
+    },
+    {
+      "name": "Entertainment",
+      "slug": "entertainment",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/entertainment.png",
+      "brands_name": "BookMyShow,AD,GQ,Vogue,CNT,India Today Hindi,Reader's Digest,Harper's Bazaar India,Cosmopolitan India,Gadgets and Gizmos,India Today English,Business Today,PVR,Smaaash,Grazia,Hello!,Good Homes,Femina Tamil,Top Gear,Lonely Planet,Home Trends,Filmfare English - 12 Issues,Femina English",
+      "brands_slug": "bookmyshow-gift-vouchers,ad-gift-vouchers,gq-gift-vouchers,vogue-gift-vouchers,cnt-gift-vouchers,india-today-hindi-gift-vouchers,readers-digest-gift-vouchers,harpers-bazaar-india-gift-vouchers,cosmopolitan-india-gift-vouchers,gadgets-and-gizmos-gift-vouchers,india-today-english-gift-vouchers,business-today-gift-vouchers,pvr-gift-vouchers,smaaash-gift-vouchers,grazia-gift-vouchers,hello!-gift-vouchers,good-homes-gift-vouchers,femina-tamil-gift-vouchers,top-gear-gift-vouchers,lonely-planet-gift-vouchers,home-trends-gift-vouchers,filmfare-english---12-issues-gift-vouchers,femina-english-gift-vouchers"
+    },
+    {
+      "name": "Fashions",
+      "slug": "fashion",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/fashion.png",
+      "brands_name": "Allen Sollys,Louis Philippe,Peter England,Planet Fashion,Van Heusen,Simon Carter,Amazon,Benetton,Jack & Jones,Veromoda,Only,BIBA,Celio,Flipkart,FBB,Central,Brand Factory,Gini & Jony,Lifestyle,Levis,BEVERLY HILLS POLO,NEW BALANCE,LA SENZA,Pantaloons,Puma,The Raymond Shop,Shoppers Stop,Aurelia,W,Myntra,Westside,Woodland",
+      "brands_slug": "allen-solly-gift-vouchers,louis-philippe-gift-vouchers,peter-england-gift-vouchers,planet-fashion-gift-vouchers,van-heusen-gift-vouchers,simon-carter-gift-vouchers,amazon-gift-vouchers,benetton-gift-vouchers,jack-&-jones-gift-vouchers,veromoda-gift-vouchers,only-gift-vouchers,biba-gift-vouchers,celio-gift-vouchers,flipkart-gift-vouchers,fbb-gift-vouchers,central-gift-vouchers,brand-factory-gift-vouchers,gini-&-jony-gift-vouchers,lifestyle-gift-vouchers,levis-gift-vouchers,beverly-hills-polo-gift-vouchers,new-balance-gift-vouchers,la-senza-gift-vouchers,pantaloons-gift-vouchers,puma-gift-vouchers,the-raymond-shop-gift-vouchers,shoppers-stop-gift-vouchers,aurelia-gift-vouchers,w-gift-vouchers,myntra-gift-vouchers,westside-gift-vouchers,woodland-gift-vouchers"
+    },
+    {
+      "name": "Gifting",
+      "slug": "gifting",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/gifting.png",
+      "brands_name": "Allen Sollys,Louis Philippe,Peter England,Planet Fashion,Van Heusen,Simon Carter,Amazon,Benetton,Jack & Jones,Veromoda,Only,BIBA,Celio,Flipkart,FBB,Central,Brand Factory,Gini & Jony,Lifestyle,Levis,BEVERLY HILLS POLO,NEW BALANCE,LA SENZA,Pantaloons,Puma,The Raymond Shop,Shoppers Stop,Aurelia,W,Myntra,Westside,Woodland,Bata,Hush Puppies,Hidesign,ALDO,CHARLES & KEITH,CALL IT SPRING,Relaxo,Titan,Fastrack,Helios,Titan Eye Plus,Voylla,William Penn,TGIF,Beer Cafe,Chicago Pizza,Cafe Coffee Day Online,Pizza Hut,Costa Coffee,KFC,UBER EATS,Baskin Robbins,WOK EXPRESS,Mainland China,SIGREE,Machaan,Oh! Calcutta,Sweet Bengal,Chaayos,ZOMATO GOLD,Croma,Mobile Recharge,BookMyShow,AD,GQ,Vogue,CNT,India Today Hindi,Reader's Digest,Harper's Bazaar India,Cosmopolitan India,Gadgets and Gizmos,India Today English,Business Today,PVR,Smaaash,Grazia,Hello!,Good Homes,Femina Tamil,Top Gear,Lonely Planet,Home Trends,Filmfare English - 12 Issues,Femina English,CallHealth,Talwalkars,OLA CABS,Fab Hotels,UBER,I Can Stay,Goomo,MakeMy Trip Generic,Yatra.com,Big Bazaar,MORE,Spencer's Retail,Kama Ayurveda,INGLOT,Bobbi Brown,Mac,Archies Gallery,Ferns N Petals,Home Centre,Prestige,Urban Ladders",
+      "brands_slug": "allen-solly-gift-vouchers,louis-philippe-gift-vouchers,peter-england-gift-vouchers,planet-fashion-gift-vouchers,van-heusen-gift-vouchers,simon-carter-gift-vouchers,amazon-gift-vouchers,benetton-gift-vouchers,jack-&-jones-gift-vouchers,veromoda-gift-vouchers,only-gift-vouchers,biba-gift-vouchers,celio-gift-vouchers,flipkart-gift-vouchers,fbb-gift-vouchers,central-gift-vouchers,brand-factory-gift-vouchers,gini-&-jony-gift-vouchers,lifestyle-gift-vouchers,levis-gift-vouchers,beverly-hills-polo-gift-vouchers,new-balance-gift-vouchers,la-senza-gift-vouchers,pantaloons-gift-vouchers,puma-gift-vouchers,the-raymond-shop-gift-vouchers,shoppers-stop-gift-vouchers,aurelia-gift-vouchers,w-gift-vouchers,myntra-gift-vouchers,westside-gift-vouchers,woodland-gift-vouchers,bata-gift-vouchers,hush-puppies-gift-vouchers,hidesign-gift-vouchers,aldo-gift-vouchers,charles-&-keith-gift-vouchers,call-it-spring-gift-vouchers,relaxo-gift-vouchers,titan-gift-vouchers,fastrack-gift-vouchers,helios-gift-vouchers,titan-eye-plus-gift-vouchers,voylla-gift-vouchers,william-penn-gift-vouchers,tgif-gift-vouchers,beer-cafe-gift-vouchers,chicago-pizza-gift-vouchers,cafe-coffee-day-online-gift-vouchers,pizza-hut-gift-vouchers,costa-coffee-gift-vouchers,kfc-gift-vouchers,uber-eats-gift-vouchers,baskin-robbins-gift-vouchers,wok-express-gift-vouchers,mainland-china-gift-vouchers,sigree-gift-vouchers,machaan-gift-vouchers,oh!-calcutta-gift-vouchers,sweet-bengal-gift-vouchers,chaayos-gift-vouchers,zomato-gold-gift-vouchers,croma-gift-vouchers,mobile-recharge-gift-vouchers,bookmyshow-gift-vouchers,ad-gift-vouchers,gq-gift-vouchers,vogue-gift-vouchers,cnt-gift-vouchers,india-today-hindi-gift-vouchers,readers-digest-gift-vouchers,harpers-bazaar-india-gift-vouchers,cosmopolitan-india-gift-vouchers,gadgets-and-gizmos-gift-vouchers,india-today-english-gift-vouchers,business-today-gift-vouchers,pvr-gift-vouchers,smaaash-gift-vouchers,grazia-gift-vouchers,hello!-gift-vouchers,good-homes-gift-vouchers,femina-tamil-gift-vouchers,top-gear-gift-vouchers,lonely-planet-gift-vouchers,home-trends-gift-vouchers,filmfare-english---12-issues-gift-vouchers,femina-english-gift-vouchers,callhealth-gift-vouchers,talwalkars-gift-vouchers,ola-cabs-gift-vouchers,fab-hotels-gift-vouchers,uber-gift-vouchers,i-can-stay-gift-vouchers,goomo-gift-vouchers,makemy-trip-generic-gift-vouchers,yatra.com-gift-vouchers,big-bazaar-gift-vouchers,more-gift-vouchers,spencers-retail-gift-vouchers,kama-ayurveda-gift-vouchers,inglot-gift-vouchers,bobbi-brown-gift-vouchers,mac-gift-vouchers,archies-gallery-gift-vouchers,ferns-n-petals-gift-vouchers,home-centre-gift-vouchers,prestige-gift-vouchers,urban-ladder-gift-vouchers"
+    },
+    {
+      "name": "Grocery",
+      "slug": "grocery",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/groceries.png",
+      "brands_name": "Amazon,Big Bazaar,MORE,Spencer's Retail",
+      "brands_slug": "amazon-gift-vouchers,big-bazaar-gift-vouchers,more-gift-vouchers,spencers-retail-gift-vouchers"
+    },
+    {
+      "name": "Health & Wellness",
+      "slug": "health-wellness",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/health-wellness.png",
+      "brands_name": "CallHealth,Talwalkars",
+      "brands_slug": "callhealth-gift-vouchers,talwalkars-gift-vouchers"
+    },
+    {
+      "name": "Home & Furniture",
+      "slug": "home-furniture",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/home-furniture.png",
+      "brands_name": "Amazon,Flipkart,Home Centre,Prestige,Urban Ladders",
+      "brands_slug": "amazon-gift-vouchers,flipkart-gift-vouchers,home-centre-gift-vouchers,prestige-gift-vouchers,urban-ladder-gift-vouchers"
+    },
+    {
+      "name": "Online",
+      "slug": "online",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/online.png",
+      "brands_name": "Amazon,BIBA,Flipkart,Pantaloons,Shoppers Stop,Myntra,Voylla",
+      "brands_slug": "amazon-gift-vouchers,biba-gift-vouchers,flipkart-gift-vouchers,pantaloons-gift-vouchers,shoppers-stop-gift-vouchers,myntra-gift-vouchers,voylla-gift-vouchers"
+    },
+    {
+      "name": "Restaurants",
+      "slug": "restaurants",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/restaurants.png",
+      "brands_name": "TGIF,Beer Cafe,Chicago Pizza,Cafe Coffee Day Online,Pizza Hut,Costa Coffee,KFC,UBER EATS,Baskin Robbins,WOK EXPRESS,Mainland China,SIGREE,Machaan,Oh! Calcutta,Sweet Bengal,Chaayos,ZOMATO GOLD",
+      "brands_slug": "tgif-gift-vouchers,beer-cafe-gift-vouchers,chicago-pizza-gift-vouchers,cafe-coffee-day-online-gift-vouchers,pizza-hut-gift-vouchers,costa-coffee-gift-vouchers,kfc-gift-vouchers,uber-eats-gift-vouchers,baskin-robbins-gift-vouchers,wok-express-gift-vouchers,mainland-china-gift-vouchers,sigree-gift-vouchers,machaan-gift-vouchers,oh!-calcutta-gift-vouchers,sweet-bengal-gift-vouchers,chaayos-gift-vouchers,zomato-gold-gift-vouchers"
+    },
+    {
+      "name": "Travel",
+      "slug": "travel",
+      "icon_url": "http://images.gyftr.net/smartbuy/nav-icon/travel.png",
+      "brands_name": "OLA CABS,Fab Hotels,UBER,I Can Stay,Goomo,MakeMy Trip Generic,Yatra.com",
+      "brands_slug": "ola-cabs-gift-vouchers,fab-hotels-gift-vouchers,uber-gift-vouchers,i-can-stay-gift-vouchers,goomo-gift-vouchers,makemy-trip-generic-gift-vouchers,yatra.com-gift-vouchers"
+    }
+  ]
+}
